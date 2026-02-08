@@ -15,3 +15,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 chmod +x simple-interest.sh
 ./simple-interest.sh
 
+
